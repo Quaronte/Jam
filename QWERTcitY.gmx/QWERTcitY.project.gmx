@@ -12,6 +12,7 @@
     <script>scripts\scr_crearMapa.gml</script>
     <script>scripts\scr_checkKeyboard.gml</script>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <script>scripts\scr_pachi.gml</script>
 =======
 <<<<<<< HEAD
@@ -28,6 +29,8 @@
 >>>>>>> origin/master
 >>>>>>> origin/master
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 0a0c5db... Creado  mi script
   </scripts>
   <help>
     <rtf>help.rtf</rtf>
