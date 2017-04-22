@@ -12,7 +12,11 @@
     <script>scripts\scr_crearMapa.gml</script>
     <script>scripts\scr_checkKeyboard.gml</script>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <script>scripts\scr_miguel.gml</script>
+=======
+    <script>scripts\scr_lucas.gml</script>
+>>>>>>> origin/master
 =======
     <script>scripts\scr_pachi.gml</script>
 >>>>>>> origin/master
