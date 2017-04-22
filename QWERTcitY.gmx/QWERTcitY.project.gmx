@@ -11,7 +11,11 @@
   <scripts name="scripts">
     <script>scripts\scr_crearMapa.gml</script>
     <script>scripts\scr_checkKeyboard.gml</script>
+<<<<<<< HEAD
     <script>scripts\scr_lucas.gml</script>
+=======
+    <script>scripts\scr_pachi.gml</script>
+>>>>>>> origin/master
   </scripts>
   <help>
     <rtf>help.rtf</rtf>
