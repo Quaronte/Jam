@@ -11,6 +11,7 @@
   <scripts name="scripts">
     <script>scripts\scr_crearMapa.gml</script>
     <script>scripts\scr_checkKeyboard.gml</script>
+    <script>scripts\scr_lucas.gml</script>
   </scripts>
   <help>
     <rtf>help.rtf</rtf>
